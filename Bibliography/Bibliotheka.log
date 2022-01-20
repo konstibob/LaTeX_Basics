@@ -1,0 +1,484 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.19)  16 JAN 2022 12:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Bibliotheka.tex
+(./Bibliotheka.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-17>
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/10/13 3.64 The Babel package
+\babel@savecnt=\count190
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.de
+f)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count191
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-english/eng
+lish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+man.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+manb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/hologo/hologo.sty
+Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/infwarerr/infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetke
+ys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvde
+finekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions
+.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+Package hologo Info: Using driver `pdftex'.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.s
+ty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count193
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count194
+\c@listtotal=\count195
+\c@listcount=\count196
+\c@liststart=\count197
+\c@liststop=\count198
+\c@citecount=\count199
+\c@citetotal=\count266
+\c@multicitecount=\count267
+\c@multicitetotal=\count268
+\c@instcount=\count269
+\c@maxnames=\count270
+\c@minnames=\count271
+\c@maxitems=\count272
+\c@minitems=\count273
+\c@citecounter=\count274
+\c@maxcitecounter=\count275
+\c@savedcitecounter=\count276
+\c@uniquelist=\count277
+\c@uniquename=\count278
+\c@refsection=\count279
+\c@refsegment=\count280
+\c@maxextratitle=\count281
+\c@maxextratitleyear=\count282
+\c@maxextraname=\count283
+\c@maxextradate=\count284
+\c@maxextraalpha=\count285
+\c@abbrvpenalty=\count286
+\c@highnamepenalty=\count287
+\c@lownamepenalty=\count288
+\c@maxparens=\count289
+\c@parenlevel=\count290
+\blx@tempcnta=\count291
+\blx@tempcntb=\count292
+\blx@tempcntc=\count293
+\blx@maxsection=\count294
+\blx@maxsegment@0=\count295
+\blx@notetype=\count296
+\blx@parenlevel@text=\count297
+\blx@parenlevel@foot=\count298
+\blx@sectionciteorder@0=\count299
+\blx@entrysetcounter=\count300
+\blx@biblioinstance=\count301
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count302
+\c@maxcomprange=\count303
+\c@mincompwidth=\count304
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count305
+\c@savedafterword=\count306
+\c@annotator=\count307
+\c@savedannotator=\count308
+\c@author=\count309
+\c@savedauthor=\count310
+\c@bookauthor=\count311
+\c@savedbookauthor=\count312
+\c@commentator=\count313
+\c@savedcommentator=\count314
+\c@editor=\count315
+\c@savededitor=\count316
+\c@editora=\count317
+\c@savededitora=\count318
+\c@editorb=\count319
+\c@savededitorb=\count320
+\c@editorc=\count321
+\c@savededitorc=\count322
+\c@foreword=\count323
+\c@savedforeword=\count324
+\c@holder=\count325
+\c@savedholder=\count326
+\c@introduction=\count327
+\c@savedintroduction=\count328
+\c@namea=\count329
+\c@savednamea=\count330
+\c@nameb=\count331
+\c@savednameb=\count332
+\c@namec=\count333
+\c@savednamec=\count334
+\c@translator=\count335
+\c@savedtranslator=\count336
+\c@shortauthor=\count337
+\c@savedshortauthor=\count338
+\c@shorteditor=\count339
+\c@savedshorteditor=\count340
+\c@labelname=\count341
+\c@savedlabelname=\count342
+\c@institution=\count343
+\c@savedinstitution=\count344
+\c@lista=\count345
+\c@savedlista=\count346
+\c@listb=\count347
+\c@savedlistb=\count348
+\c@listc=\count349
+\c@savedlistc=\count350
+\c@listd=\count351
+\c@savedlistd=\count352
+\c@liste=\count353
+\c@savedliste=\count354
+\c@listf=\count355
+\c@savedlistf=\count356
+\c@location=\count357
+\c@savedlocation=\count358
+\c@organization=\count359
+\c@savedorganization=\count360
+\c@origlocation=\count361
+\c@savedoriglocation=\count362
+\c@origpublisher=\count363
+\c@savedorigpublisher=\count364
+\c@publisher=\count365
+\c@savedpublisher=\count366
+\c@language=\count367
+\c@savedlanguage=\count368
+\c@origlanguage=\count369
+\c@savedoriglanguage=\count370
+\c@pageref=\count371
+\c@savedpageref=\count372
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/blx-compat
+.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.d
+ef
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count373
+\c@textcitetotal=\count374
+\c@textcitemaxnames=\count375
+\c@biburlbigbreakpenalty=\count376
+\c@biburlbreakpenalty=\count377
+\c@biburlnumpenalty=\count378
+\c@biburlucpenalty=\count379
+\c@biburllcpenalty=\count380
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count381
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/numeri
+c.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/standa
+rd.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count382
+\c@bbx:relatedtotal=\count383
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/cbx/numeri
+c.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.c
+fg
+File: biblatex.cfg 
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count384
+\@quotereset=\count385
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-10-17 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count386
+\l__pdf_internal_box=\box50
+) (./Bibliotheka.aux)
+\openout1 = `Bibliotheka.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/ngerma
+n.lbx
+File: ngerman.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/german
+.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/german
+.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/englis
+h.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-10-17 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-10-17 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/biblatex/blx-case-e
+xpl3.sty
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/x
+parse.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `Bibliotheka.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Bibliotheka.bbl' found.
+ (./Bibliotheka.bbl)
+Package biblatex Info: Reference section=0 on input line 8.
+Package biblatex Info: Reference segment=0 on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+
+! Misplaced alignment tab character &.
+<argument> ...des and Finite Fields (Appl. Math. &
+                                                   Comp. Sci. Ser.) by Olive...
+l.26 \end
+         {document}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<argument> John Wiley &
+                        Sons, Incorporated
+l.26 \end
+         {document}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[1
+
+{c:/Program Files/TeXLive/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}] (./Bibliotheka.aux)
+Package logreq Info: Writing requests to 'Bibliotheka.run.xml'.
+\openout1 = `Bibliotheka.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9576 strings out of 478599
+ 185352 string characters out of 5847044
+ 954723 words of memory out of 5000000
+ 27401 multiletter control sequences out of 15000+600000
+ 406505 words of font info for 37 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 56i,8n,66p,1299b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmcsc10.pfb><c:/Program Files/TeXLive/texlive/2021/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Program Files/TeXLive/texlive/2021
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Program Files/TeXLive/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Program File
+s/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/P
+rogram Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb>
+Output written on Bibliotheka.pdf (1 page, 92295 bytes).
+PDF statistics:
+ 43 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

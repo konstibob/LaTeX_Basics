@@ -1,0 +1,152 @@
+\documentclass[paper=a5,captions=tableabove]{scrartcl}
+\usepackage[english]{babel}
+\usepackage{siunitx,booktabs,longtable,blindtext}
+\setcounter{table}{9}% only for demo
+\pagestyle{empty}
+\begin{document}
+
+	
+	\begin{longtable}{llll}                                  
+			\caption{Buchstaben mit einem Punkt darüber.}\label{tab:table1}\\\toprule  % it is now an own tabular line
+			\emph{Beschreibung} & {\emph{Zeichen}} & \emph{Unicode dezimal} & {\emph{Unicode hexadez.}}\\
+			$\alpha$ & $\beta$ & {$\gamma$} & {$\gamma$} \\\midrule
+			\endfirsthead                                           % end of the _first_ header definition
+			%-------------------------------------------------------------------
+			\toprule
+			\emph{Value 1} & {\emph{Value 2}} & \emph{Value 3}\\
+			$\alpha$ & $\beta$ & {$\gamma$} \\\midrule
+			\endhead                                                % end of the other header definition
+			%-------------------------------------------------------------------
+			\midrule                                                
+			\endfoot                                                % end of the other foot definition
+			%-------------------------------------------------------------------
+			\bottomrule
+			\endlastfoot                                            % end of the last foot definition
+			%-------------------------------------------------------------------
+			Großes B mit Punkt darueber & Ḃ & \&\#7682; & E02\\
+			Kleines b mit Punkt darüber & ḃ & \&\#7683; & 1E03\\
+			Großes C mit einem Punkt darüber & Ċ & \&\#266; & 010A\\
+			
+			Großes D mit einem Punkt darüber&
+			Ḋ&
+			\&\#7690;&
+			1E0A\\
+			Kleines d mit einem Punkt darüber&
+			ḋ&
+			\&\#7691;&
+			1E0B\\
+			Großes E mit einem Punkt darüber&
+			Ė&
+			\&\#278;&
+			0116\\
+			Kleines e mit einem Punkt darüber&
+			ė&
+			\&\#279;&
+			0117\\
+			Großes F mit einem Punkt darüber&
+			Ḟ&
+			\&\#7710;&
+			1E1E\\
+			Kleines f mit einem Punkt darüber&
+			ḟ&
+			\&\#7711;&
+			1E1F\\
+			Großes G mit einem Punkt darüber&
+			Ġ&
+			\&\#288;&
+			0120\\
+			Kleines g mit einem Punkt darüber&
+			ġ&
+			\&\#289;&
+			0121\\
+			Großes H mit einem Punkt darüber&
+			Ḣ&
+			\&\#7714;&
+			1E22\\
+			Kleines h mit einem Punkt darüber&
+			ḣ&
+			\&\#7715;&
+			1E23\\
+			Großes I mit Punkt darüber&
+			İ&
+			\&\#304;&
+			0130\\
+			Kleines i&
+			i&
+			\&\#105;&
+			ASCII\\
+			Großes I&
+			I&
+			\&\#73;&
+			ASCII\\
+			Kleines i ohne Punkt&
+			ı&
+			\&\#305;&
+			0131\\
+			Großes M mit einem Punkt darüber&
+			Ṁ&
+			\&\#7744;&
+			1E40\\
+			Kleines m mit einem Punkt darüber&
+			ṁ&
+			\&\#7745;&
+			1E41\\
+			Großes N mit einem Punkt darüber&
+			Ṅ&
+			\&\#7748;&
+			1E44\\
+			Kleines n mit einem Punkt darüber&
+			ṅ&
+			\&\#7749;&
+			1E45\\
+			Großes P mit einem Punkt darüber&
+			Ṗ&
+			\&\#7766;&
+			1E56\\
+			Kleines p mit einem Punkt darüber&
+			ṗ&
+			\&\#7767;&
+			1E57\\
+			Großes R mit einem Punkt darüber&
+			Ṙ&
+			\&\#7768;&
+			1E58\\
+			Kleines r mit einem Punkt darüber&
+			ṙ&
+			\&\#7769;&
+			1E59\\
+			Großes S mit einem Punkt darüber&
+			Ṡ&
+			\&\#7776;&
+			1E60\\
+			Kleines s mit einem Punkt darüber&
+			ṡ&
+			\&\#7777;&
+			1E61\\
+			Großes T mit einem Punkt darüber&
+			Ṫ&
+			\&\#7786;&
+			1E6A\\
+			Kleines t mit einem Punkt darüber&
+			ṫ&
+			\&\#7787;&
+			1E6B\\
+			Großes Z mit einem Punkt darüber&
+			Ż&
+			\&\#379;&
+			017B\\
+			Kleines z mit einem Punkt darüber&
+			ż&
+			\&\#380;&
+			017C\\\
+		\end{longtable}
+		
+		text1\footnote{\label{wort1}Wort} 
+		
+		text2\footref{wort1}
+		
+		text3\footnote{}%probleme mit formatting 	
+		
+		
+		
+	\end{document}

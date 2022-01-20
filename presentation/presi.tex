@@ -1,0 +1,84 @@
+\documentclass[professionalfonts]{beamer}
+%\usetheme{...}  % Falls Sie ein spezielles Layout möchten
+\usetheme{CambridgeUS}
+
+
+\usepackage{libertinus}
+\mode<presentation>{}
+\definecolor{UniBlue}{RGB}{83,121,170}
+
+\title{Pr\"asentation: Latex}
+\subtitle{Freie Universit\"at Berlin}
+\author{Konstatnin Bobenko}
+
+
+\begin{document}
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+{
+	\setbeamercolor{background canvas}{bg=UniBlue}
+	\begin{frame}
+		\begin{itemize}
+		\item{Aufgabe a)}
+		\item{Kurs: ABV \LaTeX }
+		\item{von Herbert Voss}
+		\end{itemize}
+	\end{frame}
+}
+
+	\begin{frame}
+		\begin{itemize}
+		\item<1-> Dieser 
+		\item<2-> Dieser Satz 
+		\item<3-> Dieser Satz ist  
+		\item<4-> Dieser Satz ist ohne  
+		\item<5-> Dieser Satz ist ohne besonderen  
+		\item<6-> Dieser Satz ist ohne besonderen Sinn, 
+		\item<7-> Dieser Satz ist ohne besonderen Sinn, also  
+		\item<8->  Dieser Satz ist ohne besonderen Sinn, also redundant 
+		\end{itemize}
+	\end{frame}
+
+{
+	\setbeamercolor{background canvas}{bg=UniBlue}
+	\begin{frame}
+		\begin{itemize}
+			\item{Aufgabe b)}
+			\item{Kurs: ABV \LaTeX }
+			\item{von Herbert Voss}
+		\end{itemize}
+	\end{frame}
+}
+
+	\begin{frame}
+		\begin{itemize}
+			\item<1-> redundant 
+			\item<2-> also redundant 
+			\item<3-> Sinn, also redundant 
+			\item<4-> besonderen Sinn, also redundant 
+			\item<5-> ohne besonderen Sinn, also redundant
+			\item<6-> ist ohne besonderen Sinn, also redundan
+			\item<7-> Satz ist ohne besonderen Sinn, also redundant
+			\item<8-> Dieser Satz ist ohne besonderen Sinn, also redundant 
+		\end{itemize}
+	\end{frame}
+{
+	\setbeamercolor{background canvas}{bg=UniBlue}
+	\begin{frame}
+		\begin{itemize}
+			\item{Aufgabe c)}
+			\item{Kurs: ABV \LaTeX }
+			\item{von Herbert Voss}
+		\end{itemize}
+	\end{frame}
+}
+	
+	\begin{frame}
+		\begin{itemize}
+			\item \pause[8]Dieser\pause[7] Satz \pause[6] ist \pause[5] ohne \pause[4] besonderen\pause[3] Sinn, \pause[2]also \pause[1] redundant
+		\end{itemize}
+	\end{frame}
+
+\end{document}

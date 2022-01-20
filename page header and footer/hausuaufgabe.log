@@ -1,0 +1,391 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.19)  18 NOV 2021 14:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hausuaufgabe.tex
+(./hausuaufgabe.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-17>
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrbook
+.cls
+Document Class: scrbook 2021/06/25 v3.34 KOMA-Script document class (book)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrkbas
+e.sty
+Package: scrkbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase
+.sty
+Package: scrbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfil
+e.sty
+Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfil
+e-hook.sty
+Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo
+.sty
+Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
+)))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/tocbasi
+c.sty
+Package: tocbasic 2021/06/25 v3.34 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: File `scrsize11pt.clo' used instead of
+(scrbook)           file `scrsize11.clo' to setup font sizes on input line 2489
+.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrsize
+11pt.clo
+File: scrsize11pt.clo 2021/06/25 v3.34 KOMA-Script font size class option (11pt
+)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/typeare
+a.sty
+Package: typearea 2021/06/25 v3.34 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count182
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 14
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 421.10083pt
+(typearea)              \textwidth      = 330.86494pt
+(typearea)              DIV departure   = 8%
+(typearea)              \evensidemargin = -12.11273pt
+(typearea)              \oddsidemargin  = -42.19136pt
+(typearea)             \paperheight     = 597.50793pt
+(typearea)              \textheight     = 473.4002pt
+(typearea)              \topmargin      = -66.99086pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1742.
+)
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5714.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5725.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5725.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5734.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5744.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5744.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5754.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5754.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5765.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5765.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5775.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5775.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6961.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count190
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6982.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count191
+Class scrbook Info: Redefining `\numberline' on input line 7155.
+\bibindent=\dimen138
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/libertinus/libertin
+us.sty
+Package: libertinus 2020/05/06 v. 0.02 (Herbert Voss) Supports libertinus fonts
+ for pdflatex/lualatex/xelatex
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.t
+ex
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.
+tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count192
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/libertinus-type1/li
+bertinus-type1.sty
+Package: libertinus-type1 2021/02/14 (Bob Tennent) Supports libertinus fonts fo
+r latex/pdflatex.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.st
+y
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/fontaxes/fontaxes.s
+ty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/microtype
+.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks19
+\MT@count=\count193
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count194
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/microtype
+-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip64
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/microtype
+.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/10/13 3.64 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen140
+\l@unhyphenated=\language87
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.de
+f)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+man.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+manb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+man.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlaye
+r-scrpage.sty
+Package: scrlayer-scrpage 2021/06/25 v3.34 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlaye
+r.sty
+Package: scrlayer 2021/06/25 v3.34 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/blindtext/blindtext
+.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count197
+\c@Blindtext=\count198
+\c@blind@countparstart=\count199
+\blind@countxx=\count266
+\blindtext@numBlindtext=\count267
+\blind@countyy=\count268
+\c@blindlist=\count269
+\c@blindlistlevel=\count270
+\c@blindlist@level=\count271
+\blind@listitem=\count272
+\c@blind@listcount=\count273
+\c@blind@levelcount=\count274
+\blind@mathformula=\count275
+\blind@Mathformula=\count276
+\c@blind@randomcount=\count277
+\c@blind@randommax=\count278
+\c@blind@pangramcount=\count279
+\c@blind@pangrammax=\count280
+)
+LaTeX Font Info:    Trying to load font information for OT1+LibertinusSerif-TLF
+ on input line 24.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/libertinus-type1/OT
+1LibertinusSerif-TLF.fd
+File: OT1LibertinusSerif-TLF.fd 2020/08/22 (autoinst) Font definitions for OT1/
+LibertinusSerif-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/LibertinusSerif-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 24.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-10-17 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box52
+) (./hausuaufgabe.aux)
+\openout1 = `hausuaufgabe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+\c@mv@tabular=\count282
+\c@mv@boldtabular=\count283
+LaTeX Info: Redefining \microtypecontext on input line 24.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 24.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LibertinusSerif-TLF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/LibertinusSerif-TLF/m/sl' in size <10.95> n
+ot available
+(Font)              Font shape `OT1/LibertinusSerif-TLF/m/it' tried instead on 
+input line 26.
+LaTeX Font Info:    Font shape `OT1/LibertinusSerif-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 26.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cf
+g
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+ [1{c:/Program Files/TeXLive/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map}
+
+] [2] (./hausuaufgabe.aux) ) 
+Here is how much of TeX's memory you used:
+ 8293 strings out of 478599
+ 191513 string characters out of 5847044
+ 684982 words of memory out of 5000000
+ 26101 multiletter control sequences out of 15000+600000
+ 411253 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,19n,108p,10607b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Program Files/TeXLive/texlive/2021/texmf-dist/f
+onts/enc/dvips/libertinus-type1/lbts_674lrv.enc}{c:/Program Files/TeXLive/texli
+ve/2021/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_oaaihm.enc}<c:/Program
+ Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/libertinus-type1/Libe
+rtinusSerif-Italic.pfb><c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/
+type1/public/libertinus-type1/LibertinusSerif-Regular.pfb>
+Output written on hausuaufgabe.pdf (2 pages, 192539 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 5633 words of extra memory for PDF output out of 10000 (max. 10000000)
+

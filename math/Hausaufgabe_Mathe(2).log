@@ -1,0 +1,248 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.19)  14 DEC 2021 23:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Hausaufgabe_Mathe(2).tex
+(./Hausaufgabe_Mathe(2).tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-17>
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/microtype
+.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\MT@toks=\toks17
+\MT@count=\count190
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count191
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/microtype
+-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip49
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/microtype
+.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/10/13 3.64 The Babel package
+\babel@savecnt=\count192
+\U@D=\dimen140
+\l@unhyphenated=\language87
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.de
+f)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count193
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+man.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+manb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-german/nger
+man.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip50
+For additional information on amsmath, use the `?' option.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen141
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+) (c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.st
+y
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks19
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks20
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.d
+ef
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-10-17 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box52
+) (./Hausaufgabe_Mathe(2).aux)
+\openout1 = `Hausaufgabe_Mathe(2).aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Info: Redefining \microtypecontext on input line 14.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 14.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cf
+g
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count273
+\scratchdimen=\dimen150
+\scratchbox=\box53
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen151
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks24
+) [1
+
+{c:/Program Files/TeXLive/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}] (./Hausaufgabe_Mathe(2).aux) ) 
+Here is how much of TeX's memory you used:
+ 4665 strings out of 478599
+ 73789 string characters out of 5847044
+ 425806 words of memory out of 5000000
+ 22532 multiletter control sequences out of 15000+600000
+ 405176 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,5n,66p,247b,142s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Program Files/TeXLive/texlive/2021/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/Program Files/TeXLive/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/Program File
+s/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:
+/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi7.pfb><c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><c:/Program Files/TeXLive/texlive/2021/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Program Files/TeXLive/texlive/
+2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/Program Files/TeXL
+ive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Hausaufgabe_Mathe(2).pdf (1 page, 92405 bytes).
+PDF statistics:
+ 53 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 10241 words of extra memory for PDF output out of 12000 (max. 10000000)
+

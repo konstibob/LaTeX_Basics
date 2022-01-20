@@ -1,0 +1,662 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.19)  16 JAN 2022 12:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**document.tex
+(./document.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-17>
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrartc
+l.cls
+Document Class: scrartcl 2021/06/25 v3.34 KOMA-Script document class (article)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrkbas
+e.sty
+Package: scrkbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase
+.sty
+Package: scrbase 2021/06/25 v3.34 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfil
+e.sty
+Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfil
+e-hook.sty
+Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo
+.sty
+Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
+)))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/tocbasi
+c.sty
+Package: tocbasic 2021/06/25 v3.34 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 135.
+Class scrartcl Info: File `scrsize11pt.clo' used instead of
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 224
+1.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/scrsize
+11pt.clo
+File: scrsize11pt.clo 2021/06/25 v3.34 KOMA-Script font size class option (11pt
+)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/koma-script/typeare
+a.sty
+Package: typearea 2021/06/25 v3.34 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count182
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 14
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 421.10083pt
+(typearea)              \textwidth      = 330.86494pt
+(typearea)              DIV departure   = 8%
+(typearea)              \evensidemargin = -27.15205pt
+(typearea)              \oddsidemargin  = -27.15205pt
+(typearea)             \paperheight     = 597.50793pt
+(typearea)              \textheight     = 473.4002pt
+(typearea)              \topmargin      = -66.99086pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1742.
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4851.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4851.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4859.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4869.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4869.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4879.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4879.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4890.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4890.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4900.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4900.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6075.
+
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count189
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6087.
+
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count190
+Class scrartcl Info: Redefining `\numberline' on input line 6251.
+\bibindent=\dimen138
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/10/13 3.64 The Babel package
+\babel@savecnt=\count191
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.de
+f)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count192
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-english/eng
+lish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/babel-english/eng
+lish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2021-10-15 v3.0.33 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen140
+\l__siunitx_angle_marker_box=\box52
+\l__siunitx_angle_unit_box=\box53
+\l__siunitx_compound_count_int=\count193
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/translations/transl
+ations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/infwarerr/infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count195
+\l__siunitx_number_min_decimal_int=\count196
+\l__siunitx_number_min_integer_int=\count197
+\l__siunitx_number_round_precision_int=\count198
+\l__siunitx_number_group_minimum_int=\count199
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\l__siunitx_table_tmp_box=\box54
+\l__siunitx_table_tmp_dim=\dimen142
+\l__siunitx_table_column_width_dim=\dimen143
+\l__siunitx_table_integer_box=\box55
+\l__siunitx_table_decimal_box=\box56
+\l__siunitx_table_before_box=\box57
+\l__siunitx_table_after_box=\box58
+\l__siunitx_table_before_dim=\dimen144
+\l__siunitx_table_carry_dim=\dimen145
+\l__siunitx_unit_tmp_int=\count266
+\l__siunitx_unit_position_int=\count267
+\l__siunitx_unit_total_int=\count268
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e
+/l3keys2e.sty
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-10-17 L3 programming layer (loader) 
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-10-17 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box59
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen146
+\ar@mcellbox=\box60
+\extrarowheight=\dimen147
+\NC@list=\toks18
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box61
+))
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.s
+ty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count270
+\@cmidlb=\count271
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count272
+\@lastruleclass=\count273
+\@thisrulewidth=\dimen160
+)
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count274
+\LTcapwidth=\dimen161
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@gbox=\box66
+\LT@cols=\count275
+\LT@rows=\count276
+\c@LT@tables=\count277
+\c@LT@chunks=\count278
+\LT@p@ftn=\toks19
+)
+Class scrartcl Info: longtable captions redefined on input line 4.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/blindtext/blindtext
+.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count279
+\c@Blindtext=\count280
+\c@blind@countparstart=\count281
+\blind@countxx=\count282
+\blindtext@numBlindtext=\count283
+\blind@countyy=\count284
+\c@blindlist=\count285
+\c@blindlistlevel=\count286
+\c@blindlist@level=\count287
+\blind@listitem=\count288
+\c@blind@listcount=\count289
+\c@blind@levelcount=\count290
+\blind@mathformula=\count291
+\blind@Mathformula=\count292
+\c@blind@randomcount=\count293
+\c@blind@randommax=\count294
+\c@blind@pangramcount=\count295
+\c@blind@pangrammax=\count296
+)
+(./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+Package scrbase Info: activating english \contentsname on input line 6.
+Package scrbase Info: activating english \listfigurename on input line 6.
+Package scrbase Info: activating english \listtablename on input line 6.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/latex/translations/transl
+ations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 6.
+
+(c:/Program Files/TeXLive/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count297
+\scratchdimen=\dimen162
+\scratchbox=\box67
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen163
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+
+Overfull \hbox (88.72878pt too wide) in alignment at lines 9--13
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (88.72878pt too wide) in alignment at lines 13--18
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (88.72878pt too wide) in alignment at lines 18--21
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (88.72878pt too wide) in alignment at lines 21--24
+ [] [] [] [] 
+ []
+
+
+! Package inputenc Error: Unicode character Ḋ (U+1E0A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 			Ḋ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ḋ (U+1E0B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 			ḋ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ḟ (U+1E1E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 			Ḟ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ḟ (U+1E1F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 			ḟ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ḣ (U+1E22)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 			Ḣ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ḣ (U+1E23)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 			ḣ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ṁ (U+1E40)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 			Ṁ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ṁ (U+1E41)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 			ṁ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ṅ (U+1E44)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 			Ṅ
+           &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ṗ (U+1E56)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 			Ṗ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ṗ (U+1E57)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 			ṗ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ṙ (U+1E58)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 			Ṙ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ṙ (U+1E59)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 			ṙ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ṡ (U+1E60)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 			Ṡ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ṡ (U+1E61)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 			ṡ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character Ṫ (U+1E6A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127 			Ṫ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ṫ (U+1E6B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 			ṫ
+            &
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (88.72878pt too wide) in alignment at lines 24--142
+ [] [] [] [] 
+ []
+
+[1
+
+{c:/Program Files/TeXLive/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 144.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 144.
+ [2] (./document.aux) ) 
+Here is how much of TeX's memory you used:
+ 9126 strings out of 478599
+ 218657 string characters out of 5847044
+ 638386 words of memory out of 5000000
+ 26963 multiletter control sequences out of 15000+600000
+ 407427 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,8n,108p,10630b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb><c:/Program Files/TeXLive/texlive/2021/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Program Files/TeXLive/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Program Files/Te
+XLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Progr
+am Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><c:/Program Files/TeXLive/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb>
+Output written on document.pdf (2 pages, 72196 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

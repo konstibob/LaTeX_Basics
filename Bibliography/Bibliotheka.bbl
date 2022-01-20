@@ -1,0 +1,288 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{BrunsDaniel2013Ivoa}{article}{}
+      \name{author}{3}{}{%
+        {{hash=99f58a22ed86c3d18e5a35eb70d0da3f}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=424ff327b9e6b304000ee29c2b29fefa}{%
+           family={Mostowski},
+           familyi={M\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a6d6de7a7a217b83d84fb29d6ac270d2}{%
+           family={Ulbrich},
+           familyi={U\bibinitperiod},
+           given={Mattias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Berlin/Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{17d654452da7104d8e0abbbf56e09769}
+      \strng{fullhash}{17d654452da7104d8e0abbbf56e09769}
+      \strng{bibnamehash}{17d654452da7104d8e0abbbf56e09769}
+      \strng{authorbibnamehash}{17d654452da7104d8e0abbbf56e09769}
+      \strng{authornamehash}{17d654452da7104d8e0abbbf56e09769}
+      \strng{authorfullhash}{17d654452da7104d8e0abbbf56e09769}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We give an account on the authors’ experience and results from the software verification competition held at the Formal Methods 2012 conference. Competitions like this are meant to provide a benchmark for verification systems. It consisted of three algorithms which the authors have implemented in Java, specified with the Java Modeling Language, and verified using the KeY system. Building on our solutions, we argue that verification systems which target implementations in real-world programming languages better have powerful abstraction capabilities. Regarding the KeY tool, we explain features which, driven by the competition, have been freshly implemented to accommodate for these demands.}
+      \field{issn}{1433-2779}
+      \field{journaltitle}{International journal on software tools for technology transfer}
+      \field{number}{6}
+      \field{title}{Implementation-level verification of algorithms with KeY}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{pages}{729\bibrangedash 744}
+      \range{pages}{16}
+      \keyw{Algorithms ; Analysis ; Benchmark ; Computer Science ; Formal verification ; Java Modeling Language ; Models ; Software Engineering ; Software Engineering/Programming and Operating Systems ; Theorem prover ; Theory of Computation ; VerifyThis 2012}
+    \endentry
+    \entry{CipraBarry1993Tr-E}{article}{}
+      \name{author}{1}{}{%
+        {{hash=64d8828e321e39c5ae1ab30144d2039c}{%
+           family={Cipra},
+           familyi={C\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis Ltd}%
+      }
+      \strng{namehash}{64d8828e321e39c5ae1ab30144d2039c}
+      \strng{fullhash}{64d8828e321e39c5ae1ab30144d2039c}
+      \strng{bibnamehash}{64d8828e321e39c5ae1ab30144d2039c}
+      \strng{authorbibnamehash}{64d8828e321e39c5ae1ab30144d2039c}
+      \strng{authornamehash}{64d8828e321e39c5ae1ab30144d2039c}
+      \strng{authorfullhash}{64d8828e321e39c5ae1ab30144d2039c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{  Review.}
+      \field{issn}{0002-9890}
+      \field{journaltitle}{The American mathematical monthly}
+      \field{number}{7}
+      \field{title}{Telegraphic reviews -- Error-Correcting Codes and Finite Fields (Appl. Math. & Comp. Sci. Ser.) by Oliver Pretzel}
+      \field{volume}{100}
+      \field{year}{1993}
+      \field{pages}{701\bibrangedash}
+      \range{pages}{-1}
+      \keyw{Algebra ; Nonfiction ; Textbooks}
+    \endentry
+    \entry{FortnowLance1999RMSI}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e43a5724fcae7ec1838dfc44579da075}{%
+           family={Fortnow},
+           familyi={F\bibinitperiod},
+           given={Lance},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Symbolic Logic}%
+      }
+      \strng{namehash}{e43a5724fcae7ec1838dfc44579da075}
+      \strng{fullhash}{e43a5724fcae7ec1838dfc44579da075}
+      \strng{bibnamehash}{e43a5724fcae7ec1838dfc44579da075}
+      \strng{authorbibnamehash}{e43a5724fcae7ec1838dfc44579da075}
+      \strng{authornamehash}{e43a5724fcae7ec1838dfc44579da075}
+      \strng{authorfullhash}{e43a5724fcae7ec1838dfc44579da075}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1943-5886}
+      \field{journaltitle}{The Journal of symbolic logic}
+      \field{number}{iss. 1}
+      \field{title}{Review: Michael Sipser, Introduction to the Theory of Computation}
+      \field{volume}{64}
+      \field{year}{1999}
+      \field{pages}{403\bibrangedash 403}
+      \range{pages}{1}
+    \endentry
+    \entry{Gogol-DöringAndreas2019AuDF}{book}{}
+      \name{author}{2}{}{%
+        {{hash=47707ac90cbac53e8b4b42500ca30eb5}{%
+           family={Gogol-Döring},
+           familyi={G\bibinithyphendelim D\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8ac05551ea70c6c426f8bc4cdc8559c4}{%
+           family={Letschert},
+           familyi={L\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger ; eng}%
+      }
+      \list{location}{1}{%
+        {Newark}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Incorporated}%
+      }
+      \strng{namehash}{bb10adcb2f4bf401bd98099f4acaf5a2}
+      \strng{fullhash}{bb10adcb2f4bf401bd98099f4acaf5a2}
+      \strng{bibnamehash}{bb10adcb2f4bf401bd98099f4acaf5a2}
+      \strng{authorbibnamehash}{bb10adcb2f4bf401bd98099f4acaf5a2}
+      \strng{authornamehash}{bb10adcb2f4bf401bd98099f4acaf5a2}
+      \strng{authorfullhash}{bb10adcb2f4bf401bd98099f4acaf5a2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dieses Buch führt Sie sachte in die Denkweisen des Fachs "Algorithmen und Datenstrukturen" ein. Es erklärt Informatik-Anfängern Terminologie, Notation und zentrale Inhalte des Fachgebiets auf anschauliche und sehr unterhaltsame Weise. Ein Fokus sind die Techniken und Tricks, die Sie brauchen, um effiziente Algorithmen und Datenstrukturen zu bauen. Sie werden auch in die Lage versetzt, Pseudocode in der typischen akademischen Darstellung zu verstehen und in unterschiedlichen Programmiersprachen zu realisieren oder umgekehrt grundlegende algorithmische Ideen als Pseudocode zu dokumentieren.}
+      \field{isbn}{3527714324}
+      \field{series}{Fur Dummies}
+      \field{title}{Algorithmen und Datenstrukturen Für Dummies}
+      \field{year}{2019}
+      \keyw{Algorithms ; Data management}
+    \endentry
+    \entry{HromkovicJuraj2019IiKd}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a3b563fb40f27627f52813573a32b304}{%
+           family={Hromkovic},
+           familyi={H\bibinitperiod},
+           given={Juraj},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger ; eng}%
+      }
+      \list{location}{1}{%
+        {Berlin/Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{a3b563fb40f27627f52813573a32b304}
+      \strng{fullhash}{a3b563fb40f27627f52813573a32b304}
+      \strng{bibnamehash}{a3b563fb40f27627f52813573a32b304}
+      \strng{authorbibnamehash}{a3b563fb40f27627f52813573a32b304}
+      \strng{authornamehash}{a3b563fb40f27627f52813573a32b304}
+      \strng{authorfullhash}{a3b563fb40f27627f52813573a32b304}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Zusammenfassung Dieser Artikel wurde für Lehrpersonen geschrieben, die in ihrer schulischen Ausbildung bzw. in der Lehramtsausbildung niemals mit Informatik in Berührung gekommen sind und dennoch vor der Aufgabe stehen, sie mindestens teilweise zu unterrichten. Unsere Ausführung ist bemüht, die Informatik im Kontext der ganzen Wissenschaft vorzustellen und somit Informatikkonzepte mit bekannten Themen zu verbinden. Die wichtigsten Nebenziele sind die Auflösung von Ängsten vor dem Unbekannten sowie die Vermeidung eines Wettbewerbs mit der Klasse über die Kenntnisse der neuesten Apps und der Hardware. Die Message ist klar: Die Informatik ist ein Fach wie alle anderen Fächer mit etablierten Grundkonzepten, die man schrittweise in einem Spiralcurriculum vermitteln muss. In dieser Form trägt sie nicht nur bei zum Verständnis und zur Möglichkeit der Mitgestaltung unserer Umwelt, sondern auch zum Erreichen von Grundkompetenzen in anderen Fächern, insbesondere in der Mathematik und den Sprachen. Sie ist eine wichtige Vorbereitung auf die unbekannten Berufe der Zukunft, die wir zwar nicht kennen, die aber sicher durch die Automatisierung geprägt sein werden.}
+      \field{issn}{0170-6012}
+      \field{journaltitle}{Informatik-Spektrum}
+      \field{number}{2}
+      \field{title}{Informatik im Kontext der allgemeinen Bildung}
+      \field{volume}{42}
+      \field{year}{2019}
+      \field{pages}{80\bibrangedash 87}
+      \range{pages}{8}
+      \keyw{Computer Hardware ; Computer Science ; Computer Systems Organization and Communication Networks ; Data Structures and Information Theory ; general ; Hauptbeitrag ; Software Engineering/Programming and Operating Systems}
+    \endentry
+    \entry{PlatzerBernd2006BRTW}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1afce7c175e244c791a029df4eb96500}{%
+           family={Platzer},
+           familyi={P\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {WILEY-VCH Verlag}%
+      }
+      \strng{namehash}{1afce7c175e244c791a029df4eb96500}
+      \strng{fullhash}{1afce7c175e244c791a029df4eb96500}
+      \strng{bibnamehash}{1afce7c175e244c791a029df4eb96500}
+      \strng{authorbibnamehash}{1afce7c175e244c791a029df4eb96500}
+      \strng{authornamehash}{1afce7c175e244c791a029df4eb96500}
+      \strng{authorfullhash}{1afce7c175e244c791a029df4eb96500}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0044-2267}
+      \field{journaltitle}{ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik}
+      \field{number}{2}
+      \field{title}{Book Review: Thomas Westermann, Mathematik für Ingenieure mit MAPLE, Band 1. Differential- und Integralrechnung für Funktionen einer Variablen. Vektor- und Matrizenrechnung. Komplexe Zahlen. Funktionenreihen Band 2. Differential- und Integralrechnung für Funktionen mehrerer Variablen, gewöhnliche und partielle Differentialgleichungen, Fourier-Analysis}
+      \field{volume}{86}
+      \field{year}{2006}
+      \field{pages}{133\bibrangedash 133}
+      \range{pages}{1}
+    \endentry
+    \entry{RostManfred2019L}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=97ca4d8f10528bb54ff8cea1981926c0}{%
+           family={Rost},
+           familyi={R\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng ; ger}%
+      }
+      \list{location}{1}{%
+        {Berlin, Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{97ca4d8f10528bb54ff8cea1981926c0}
+      \strng{fullhash}{97ca4d8f10528bb54ff8cea1981926c0}
+      \strng{bibnamehash}{97ca4d8f10528bb54ff8cea1981926c0}
+      \strng{authorbibnamehash}{97ca4d8f10528bb54ff8cea1981926c0}
+      \strng{authornamehash}{97ca4d8f10528bb54ff8cea1981926c0}
+      \strng{authorfullhash}{97ca4d8f10528bb54ff8cea1981926c0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Vakuumelektronik}
+      \field{isbn}{311054797X}
+      \field{title}{Literaturverzeichnis}
+      \field{year}{2019}
+      \field{pages}{265\bibrangedash 280}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

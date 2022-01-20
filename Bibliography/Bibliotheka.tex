@@ -1,0 +1,26 @@
+\documentclass{article}
+
+\usepackage[english,main=ngerman]{babel}
+\usepackage{hologo}
+\usepackage[style=numeric,backend=biber]{biblatex}
+\addbibresource{Quellen.bib}
+
+\begin{document}
+	\section{Biographie}	
+	Der Sinn von \hologo{BibTeX} ist die Erstellung von Literaturangaben und Verzeichnissen	\cite{PlatzerBernd2006BRTW}
+	in Latex Dokumenten. \footnote{\label{test}Robert Harting,
+		wie erwartet im Diskus}
+	Zum Zitieren \cite{RostManfred2019L} muss man hierbei im Dokument alle Zitate \cite{Gogol-DöringAndreas2019AuDF} im \LaTeX Dokument raussuchen
+	und diese dem jeweiligen Literatur - Werk \cite{BrunsDaniel2013Ivoa} in der Datenbank zuordnen
+	Es ist wichtig die Datei als Bib-Datei \cite{HromkovicJuraj2019IiKd} zu speichern und diese ueber Tools 
+	Biography laufen zu lassen. Ebenso muss man unter Options, Configure TexStudio
+	Build, Default Biography Tool Biber auswählen. 
+	
+	Build \& View, Biography ,F8 bzw. Build and View 
+	
+	hiernach sind die Literaturquellen erkennbar \cite{CipraBarry1993Tr-E}
+	
+	Das einzige Problem, das ich habe ist, dass er mir sagt missplaced allignment tab charachter \& end \cite{FortnowLance1999RMSI}
+	
+	\printbibliography	
+\end{document}
